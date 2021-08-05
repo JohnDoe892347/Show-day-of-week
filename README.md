@@ -1,2 +1,2 @@
 # Show-day-of-week
-Coming soon
+Not my idea , not my code
